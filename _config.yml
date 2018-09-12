@@ -14,11 +14,10 @@ location: Edison, NJ
 ## Social Profiles
 facebook: http://www.facebook.com  ## your facebook account url
 twitter: https://twitter.com/almont3_danni  ## your twitter account url
-#linkedin: http://www.linkedin.com  ## your linkedin account url
-#dribbble: http://www.dribble.com  ## you dribbble account url
+linkedin: /PanelCV/assets/snapcodes/snapcode.png  ## your snapcode image url
+dribbble: https://www.instagram.com/danni_almont3/  ## you dribbble account url
 #foursquare: http://www.foursquare.com  ## your foursquare account url
-instagram: https://www.instagram.com/danni_almont3/ ## may need to make instagram logo
-snapchat: ## may need to make snapchat logo, make it open to a new tab with the snap code
+
 
 
 # Update all the sections by editing the files inside _includes folder.
