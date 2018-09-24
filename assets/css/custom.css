@@ -1,0 +1,8 @@
+
+.icon-fix
+{
+	padding-top: 5px;
+	/*Fixes icons on website despite 
+	class not being assigned to the 
+	icons or anything. try and find out why*/
+}
