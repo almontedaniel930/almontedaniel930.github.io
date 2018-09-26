@@ -1,8 +1,7 @@
 
 .icon-fix
 {
-	padding-top: 5px;
-	/*Fixes icons on website despite 
-	class not being assigned to the 
-	icons or anything. try and find out why*/
+	padding-top: 9px;
+	/*Fixes icons postioning with 
+	the new font awesome verison*/
 }
